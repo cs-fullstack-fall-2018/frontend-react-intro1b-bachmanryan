@@ -18,3 +18,5 @@ class App extends Component {
 }
 
 export default App;
+
+// Make sure you are calling your props from the parent component App instead of here. You're supposed to use this.props.[something] here
