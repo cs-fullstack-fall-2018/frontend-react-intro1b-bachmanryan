@@ -18,3 +18,5 @@ class App extends Component {
 }
 
 export default App;
+
+// Make sure you create the variables in this component and send them to the StudentAccount component.
